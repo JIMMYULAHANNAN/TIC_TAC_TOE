@@ -46,4 +46,4 @@ This code is a simple implementation of the Tic Tac Toe game using Python. Below
 - The game checks after each move to see if there’s a winner or if the board is full (resulting in a tie).
 - Players can choose to play multiple rounds without restarting the program.
 
-code:
+code:https://github.com/JIMMYULAHANNAN/TIC_TAC_TOE/blob/main/TIC_TAC_TOE.ipynb
